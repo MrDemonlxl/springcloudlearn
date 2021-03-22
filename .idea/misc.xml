@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaserverlearn/pom.xml" />
         <option value="$PROJECT_DIR$/eurekacientlearn/pom.xml" />
+        <option value="$PROJECT_DIR$/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/serice-feign/pom.xml" />
       </list>
     </option>
   </component>

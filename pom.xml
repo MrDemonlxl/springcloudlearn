@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.forezp</groupId>
+    <groupId>com.lxl</groupId>
     <artifactId>sc-f-chapter1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -17,7 +17,7 @@
         <version>2.0.3.RELEASE</version>
         <relativePath/>
     </parent>
-
+<!--子模块-->
     <modules>
         <module>eurekaserverlearn</module>
         <module>eurekacientlearn</module>
@@ -45,7 +45,7 @@
                 <artifactId>spring-cloud-dependencies</artifactId>
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
-                <scope>import</scope>
+                <scope>import</scope><!--通过 `scope` 的import可以继承 `spring-cloud-dependencies` 工程中的依赖-->
             </dependency>
         </dependencies>
     </dependencyManagement>

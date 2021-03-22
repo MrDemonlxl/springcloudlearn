@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author lxl
+ * 服务提供者
  */
 @SpringBootApplication
 /**表明自己是一个eurekaclient**/
