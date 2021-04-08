@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52ff0b4a-47a7-40a9-b2cb-760ab357f477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringCloudLearning-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/lxl/sericefeign/SchedualServiceHiHystric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/lxl/servicezuul/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/lxl/servicezuul/ServiceZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/test/java/com/lxl/servicezuul/ServiceZuulApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekacientlearn/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekacientlearn/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/lxl/sericefeign/SchedualServiceHi.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/lxl/sericefeign/SchedualServiceHi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/lxl/sericefeign/SericeFeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/lxl/sericefeign/SericeFeignApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/lxl/serviceribbon/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/lxl/serviceribbon/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/lxl/serviceribbon/ServiceRibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/lxl/serviceribbon/ServiceRibbonApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,6 +19,8 @@
     <ignored path="$PROJECT_DIR$/config-server/target/" />
     <ignored path="$PROJECT_DIR$/config-client/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/service-hi/target/" />
+    <ignored path="$PROJECT_DIR$/service-miya/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,25 +47,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="425">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service-hi/src/main/java/com/lxl/servicehi/ServiceHiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/service-miya/src/main/java/com/lxl/servicemiya/ServiceMiyaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="175">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties">
+        <entry file="file://$PROJECT_DIR$/service-miya/src/test/java/com/lxl/servicemiya/ServiceMiyaApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-hi/src/test/java/com/lxl/servicehi/ServiceHiApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-miya/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-miya/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-hi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-hi/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -92,64 +140,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/lxl/configserver/ConfigServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/lxl/eurekaserver/EurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/src/test/java/com/lxl/eurekaserver/EurekaServerApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/lxl/configclient/ConfigClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="325">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,6 +168,7 @@
       <find>spring-cloud-config-server</find>
       <find>peerAwareInstanceRegistry</find>
       <find>pom</find>
+      <find>Failed to read HTTP message: org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of `java.lang.String` out of START_ARRAY token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.lang.String` out of START_ARRAY token</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -205,17 +204,24 @@
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/lxl/servicezuul/MyFilter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/src/test/java/com/lxl/configclient/ConfigClientApplicationTests.java" />
-        <option value="$PROJECT_DIR$/config-client/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/src/test/java/com/lxl/eurekaserver/EurekaServerApplicationTests.java" />
         <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/lxl/eurekaserver/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/config-server/src/main/java/com/lxl/configserver/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/config-client/src/main/java/com/lxl/configclient/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service-miya/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/service-miya/src/main/java/com/lxl/servicemiya/ServiceMiyaApplication.java" />
+        <option value="$PROJECT_DIR$/service-hi/src/test/java/com/lxl/servicehi/ServiceHiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/service-hi/src/main/java/com/lxl/servicehi/ServiceHiApplication.java" />
       </list>
     </option>
   </component>
@@ -239,9 +245,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="width" value="1187" />
-    <option name="height" value="1066" />
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -252,17 +259,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="springcloudlearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloudlearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -300,10 +297,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigClientApplication">
-    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <component name="RunManager" selected="Spring Boot.ServiceMiyaApplication">
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="config-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lxl.configclient.ConfigClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -344,6 +342,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-hi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lxl.servicehi.ServiceHiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMiyaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-miya" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lxl.servicemiya.ServiceMiyaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-ribbon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lxl.serviceribbon.ServiceRibbonApplication" />
@@ -367,6 +379,8 @@
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.ConfigClientApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ServiceHiApplication" />
+      <item itemvalue="Spring Boot.ServiceMiyaApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -397,7 +411,12 @@
       <workItem from="1617017006561" duration="598000" />
       <workItem from="1617100680768" duration="1394000" />
       <workItem from="1617186684659" duration="1400000" />
-      <workItem from="1617188101411" duration="2409000" />
+      <workItem from="1617188101411" duration="2666000" />
+      <workItem from="1617276233129" duration="2819000" />
+      <workItem from="1617704255245" duration="130000" />
+      <workItem from="1617706347476" duration="3050000" />
+      <workItem from="1617789183837" duration="745000" />
+      <workItem from="1617870985885" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="21.3.22 Eureka、rest+ribbon、Feigh">
       <created>1616381701204</created>
@@ -406,17 +425,23 @@
       <option name="project" value="LOCAL" />
       <updated>1616381701204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="21.3.31 Hystrix,zuul,分布式配置中心，高可用分布式配置中心">
+      <created>1617190633119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617190633119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42729000" />
+    <option name="totallyTimeSpent" value="50479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23093334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24346076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -426,13 +451,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42703864" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42703864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32939914" />
@@ -442,7 +467,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.114133336" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.11334675" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -457,7 +482,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="21.3.22 Eureka、rest+ribbon、Feigh" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.3.22 Eureka、rest+ribbon、Feigh" />
+    <MESSAGE value="21.3.31 Hystrix,zuul,分布式配置中心，高可用分布式配置中心" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.3.31 Hystrix,zuul,分布式配置中心，高可用分布式配置中心" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/serice-feign/src/test/java/com/lxl/sericefeign/SericeFeignApplicationTests.java">
@@ -707,50 +733,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="650">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/test/java/com/lxl/eurekaserver/EurekaServerApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/lxl/eurekaserver/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/lxl/configserver/ConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -761,17 +752,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/lxl/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/lxl/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/test/java/com/lxl/eurekaserver/EurekaServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/main/java/com/lxl/servicemiya/ServiceMiyaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/test/java/com/lxl/servicemiya/ServiceMiyaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/src/test/java/com/lxl/servicehi/ServiceHiApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/lxl/configclient/ConfigClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="325">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/src/main/java/com/lxl/servicehi/ServiceHiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
